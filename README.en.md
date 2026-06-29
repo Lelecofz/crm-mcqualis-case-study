@@ -10,12 +10,19 @@ An internal CRM and a client portal for a **credit intermediation** company, bui
 
 ## 📸 Demo
 
-> _Screenshots (to add under `assets/`):_
->
-> - `assets/dashboard.png` — Dashboard with key figures
-> - `assets/kanban.png` — Process funnel (Kanban)
-> - `assets/cliente.png` — Client record + timeline
-> - `assets/portal.png` — Client portal (process view)
+**Dashboard** — team figures, processes by stage and by month.
+
+![CRM dashboard](assets/dashboard.png)
+
+| Process funnel (Kanban) | Client portal |
+| :---: | :---: |
+| ![Process funnel as a Kanban board](assets/kanban.png) | ![Client portal](assets/portal.png) |
+
+**Client record with timeline** — every action is recorded with author and date.
+
+![Client record with the timeline](assets/cliente.png)
+
+<sub>Screenshots use fictitious data.</sub>
 
 ---
 

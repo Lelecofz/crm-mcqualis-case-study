@@ -10,12 +10,19 @@ Um CRM interno e um portal do cliente para uma empresa de **intermediação de c
 
 ## 📸 Demonstração
 
-> _Capturas de ecrã (a adicionar em `assets/`):_
->
-> - `assets/dashboard.png` — Dashboard com indicadores
-> - `assets/kanban.png` — Funil de processos (Kanban)
-> - `assets/cliente.png` — Ficha de cliente + linha do tempo
-> - `assets/portal.png` — Portal do cliente (vista do processo)
+**Dashboard** — indicadores da equipa, processos por fase e por mês.
+
+![Dashboard do CRM](assets/dashboard.png)
+
+| Funil de processos (Kanban) | Portal do cliente |
+| :---: | :---: |
+| ![Funil de processos em Kanban](assets/kanban.png) | ![Portal do cliente](assets/portal.png) |
+
+**Ficha de cliente com linha do tempo** — cada ação fica registada com autor e data.
+
+![Ficha de cliente com a linha do tempo](assets/cliente.png)
+
+<sub>Capturas com dados fictícios.</sub>
 
 ---
 
